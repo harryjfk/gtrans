@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7744F659-ED13-4BDB-9DE7-2BCC0EDB0F9C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GTrans</RootNamespace>
+    <AssemblyName>GTrans</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono blanco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v14.1.Win, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v14.1.UI, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Spreadsheet.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.1.UI, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.Extensions, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.UI, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.1.Wizard, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.1.Win, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v14.1.Extensions, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v14.1.Extensions, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v14.1.Core, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v14.1.Extensions, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v14.1.Reporting, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract\FrmDateRangeForm.cs" />
+    <Compile Include="Abstract\FrmDateRangeForm.Designer.cs">
+      <DependentUpon>FrmDateRangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Abstract\UCaptionWindow.cs" />
+    <Compile Include="Abstract\UCaptionWindow.Designer.cs" />
+    <Compile Include="Abstract\UCodificadorForm.cs" />
+    <Compile Include="Abstract\UCodificadorForm.Designer.cs" />
+    <Compile Include="Abstract\USaveableForm.cs" />
+    <Compile Include="Abstract\USaveableForm.Designer.cs" />
+    <Compile Include="FrmNeed.cs" />
+    <Compile Include="FrmNeed.Designer.cs">
+      <DependentUpon>FrmNeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DSReporte.cs">
+      <DependentUpon>DSReporte.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmOrdenReport.cs" />
+    <Compile Include="Reportes\FrmOrdenReport.Designer.cs">
+      <DependentUpon>FrmOrdenReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RepOrdenSalario.cs" />
+    <Compile Include="Reportes\RepOrdenSalario.Designer.cs">
+      <DependentUpon>RepOrdenSalario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RepOrdenSurtido.cs" />
+    <Compile Include="Reportes\RepOrdenSurtido.Designer.cs">
+      <DependentUpon>RepOrdenSurtido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\XtraReport1.cs" />
+    <Compile Include="Reportes\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\XtraReport3.cs" />
+    <Compile Include="Reportes\XtraReport3.Designer.cs">
+      <DependentUpon>XtraReport3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmDeletedWorker.cs" />
+    <Compile Include="Tareas\FrmDeletedWorker.Designer.cs">
+      <DependentUpon>FrmDeletedWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditPlanitlla.cs" />
+    <Compile Include="Tareas\FrmEditPlanitlla.Designer.cs">
+      <DependentUpon>FrmEditPlanitlla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditProductos.cs" />
+    <Compile Include="Tareas\FrmEditProductos.Designer.cs">
+      <DependentUpon>FrmEditProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEmpleado.cs" />
+    <Compile Include="Tareas\FrmEmpleado.Designer.cs">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmFormaPago.cs" />
+    <Compile Include="Codificadores\FrmFormaPago.Designer.cs">
+      <DependentUpon>FrmFormaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmGrupoAcciones.cs" />
+    <Compile Include="Codificadores\FrmGrupoAcciones.Designer.cs">
+      <DependentUpon>FrmGrupoAcciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmMarca.cs" />
+    <Compile Include="Codificadores\FrmMarca.Designer.cs">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmNewAccion.cs" />
+    <Compile Include="Codificadores\FrmNewAccion.Designer.cs">
+      <DependentUpon>FrmNewAccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmNivelEscolaridad.cs" />
+    <Compile Include="Codificadores\FrmNivelEscolaridad.Designer.cs">
+      <DependentUpon>FrmNivelEscolaridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmPais.cs" />
+    <Compile Include="Codificadores\FrmPais.Designer.cs">
+      <DependentUpon>FrmPais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmProductoCodif.cs" />
+    <Compile Include="Codificadores\FrmProductoCodif.Designer.cs">
+      <DependentUpon>FrmProductoCodif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmProductos.cs" />
+    <Compile Include="Tareas\FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmTipoEquipo.cs" />
+    <Compile Include="Codificadores\FrmTipoEquipo.Designer.cs">
+      <DependentUpon>FrmTipoEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmTipoMantenimiento.cs" />
+    <Compile Include="Codificadores\FrmTipoMantenimiento.Designer.cs">
+      <DependentUpon>FrmTipoMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmTipoCombustible.cs" />
+    <Compile Include="Codificadores\FrmTipoCombustible.Designer.cs">
+      <DependentUpon>FrmTipoCombustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmParalizado.cs" />
+    <Compile Include="Codificadores\FrmParalizado.Designer.cs">
+      <DependentUpon>FrmParalizado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Codificadores\FrmTipoTrabajo.cs" />
+    <Compile Include="Codificadores\FrmTipoTrabajo.Designer.cs">
+      <DependentUpon>FrmTipoTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSDatos.cs">
+      <DependentUpon>DSDatos.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DSDatos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSDatos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.cs" />
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDashBoard.cs" />
+    <Compile Include="FrmDashBoard.Designer.cs">
+      <DependentUpon>FrmDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graficos\DSGraficos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSGraficos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DSReporte.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSReporte.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs" />
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUser.cs" />
+    <Compile Include="FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graficos\FrmGraficos.cs" />
+    <Compile Include="Graficos\FrmGraficos.Designer.cs">
+      <DependentUpon>FrmGraficos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opciones\FrmReportManager.cs" />
+    <Compile Include="Opciones\FrmReportManager.Designer.cs">
+      <DependentUpon>FrmReportManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opciones\FrmTrazas.cs" />
+    <Compile Include="Opciones\FrmTrazas.Designer.cs">
+      <DependentUpon>FrmTrazas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opciones\FrmUserManager.cs" />
+    <Compile Include="Opciones\FrmUserManager.Designer.cs">
+      <DependentUpon>FrmUserManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\FrmAlmacenReport.cs" />
+    <Compile Include="Reportes\FrmAlmacenReport.Designer.cs">
+      <DependentUpon>FrmAlmacenReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmEquipoConsumo.cs" />
+    <Compile Include="Reportes\FrmEquipoConsumo.Designer.cs">
+      <DependentUpon>FrmEquipoConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmEquiposReport.cs" />
+    <Compile Include="Reportes\FrmEquiposReport.Designer.cs">
+      <DependentUpon>FrmEquiposReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmPlantillaReport.cs" />
+    <Compile Include="Reportes\FrmPlantillaReport.Designer.cs">
+      <DependentUpon>FrmPlantillaReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmAlmacen.cs" />
+    <Compile Include="Tareas\FrmAlmacen.Designer.cs">
+      <DependentUpon>FrmAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmBajaEquipo.cs" />
+    <Compile Include="Tareas\FrmBajaEquipo.Designer.cs">
+      <DependentUpon>FrmBajaEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmCancelarConsumo.cs" />
+    <Compile Include="Tareas\FrmCancelarConsumo.Designer.cs">
+      <DependentUpon>FrmCancelarConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmConsumo.cs" />
+    <Compile Include="Tareas\FrmConsumo.Designer.cs">
+      <DependentUpon>FrmConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditAlmacen.cs" />
+    <Compile Include="Tareas\FrmEditAlmacen.Designer.cs">
+      <DependentUpon>FrmEditAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditConsumo.cs" />
+    <Compile Include="Tareas\FrmEditConsumo.Designer.cs">
+      <DependentUpon>FrmEditConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditEquipo.cs" />
+    <Compile Include="Tareas\FrmEditEquipo.Designer.cs">
+      <DependentUpon>FrmEditEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditEstructura.cs" />
+    <Compile Include="Tareas\FrmEditEstructura.Designer.cs">
+      <DependentUpon>FrmEditEstructura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditOrdenTrabajo.cs" />
+    <Compile Include="Tareas\FrmEditOrdenTrabajo.Designer.cs">
+      <DependentUpon>FrmEditOrdenTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditPlanifiacion.cs" />
+    <Compile Include="Tareas\FrmEditPlanifiacion.Designer.cs">
+      <DependentUpon>FrmEditPlanifiacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditRealDropped.cs" />
+    <Compile Include="Tareas\FrmEditRealDropped.Designer.cs">
+      <DependentUpon>FrmEditRealDropped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEditRealOrdenTrabajo.cs" />
+    <Compile Include="Tareas\FrmEditRealOrdenTrabajo.Designer.cs">
+      <DependentUpon>FrmEditRealOrdenTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEquipo.cs" />
+    <Compile Include="Tareas\FrmEquipo.Designer.cs">
+      <DependentUpon>FrmEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmEstructura.cs" />
+    <Compile Include="Tareas\FrmEstructura.Designer.cs">
+      <DependentUpon>FrmEstructura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmObservacionesEstado.cs" />
+    <Compile Include="Tareas\FrmObservacionesEstado.Designer.cs">
+      <DependentUpon>FrmObservacionesEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmOrdenTrabajo.cs" />
+    <Compile Include="Tareas\FrmOrdenTrabajo.Designer.cs">
+      <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmPlanificar.cs" />
+    <Compile Include="Tareas\FrmPlanificar.Designer.cs">
+      <DependentUpon>FrmPlanificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tareas\FrmPlanificarRange.cs" />
+    <Compile Include="Tareas\FrmPlanificarRange.Designer.cs">
+      <DependentUpon>FrmPlanificarRange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport2.cs" />
+    <Compile Include="XtraReport2.Designer.cs">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abstract\FrmDateRangeForm.resx">
+      <DependentUpon>FrmDateRangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abstract\UCaptionWindow.resx" />
+    <EmbeddedResource Include="Abstract\UCodificadorForm.resx" />
+    <EmbeddedResource Include="Abstract\USaveableForm.resx" />
+    <EmbeddedResource Include="FrmNeed.resx">
+      <DependentUpon>FrmNeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opciones\FrmTrazas.resx">
+      <DependentUpon>FrmTrazas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmOrdenReport.resx">
+      <DependentUpon>FrmOrdenReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RepOrdenSalario.resx">
+      <DependentUpon>RepOrdenSalario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RepOrdenSurtido.resx">
+      <DependentUpon>RepOrdenSurtido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\XtraReport3.resx">
+      <DependentUpon>XtraReport3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmDeletedWorker.resx">
+      <DependentUpon>FrmDeletedWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditPlanitlla.resx">
+      <DependentUpon>FrmEditPlanitlla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditProductos.resx">
+      <DependentUpon>FrmEditProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEmpleado.resx">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmGrupoAcciones.resx">
+      <DependentUpon>FrmGrupoAcciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmMarca.resx">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmNewAccion.resx">
+      <DependentUpon>FrmNewAccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmPais.resx">
+      <DependentUpon>FrmPais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmProductoCodif.resx">
+      <DependentUpon>FrmProductoCodif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmTipoEquipo.resx">
+      <DependentUpon>FrmTipoEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmTipoMantenimiento.resx">
+      <DependentUpon>FrmTipoMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmTipoCombustible.resx">
+      <DependentUpon>FrmTipoCombustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmParalizado.resx">
+      <DependentUpon>FrmParalizado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Codificadores\FrmTipoTrabajo.resx">
+      <DependentUpon>FrmTipoTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDashBoard.resx">
+      <DependentUpon>FrmDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graficos\FrmGraficos.resx">
+      <DependentUpon>FrmGraficos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\FrmAlmacenReport.resx">
+      <DependentUpon>FrmAlmacenReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmEquipoConsumo.resx">
+      <DependentUpon>FrmEquipoConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmEquiposReport.resx">
+      <DependentUpon>FrmEquiposReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmPlantillaReport.resx">
+      <DependentUpon>FrmPlantillaReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmAlmacen.resx">
+      <DependentUpon>FrmAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmBajaEquipo.resx">
+      <DependentUpon>FrmBajaEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmCancelarConsumo.resx">
+      <DependentUpon>FrmCancelarConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmConsumo.resx">
+      <DependentUpon>FrmConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditAlmacen.resx">
+      <DependentUpon>FrmEditAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditConsumo.resx">
+      <DependentUpon>FrmEditConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditEquipo.resx">
+      <DependentUpon>FrmEditEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditEstructura.resx">
+      <DependentUpon>FrmEditEstructura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditOrdenTrabajo.resx">
+      <DependentUpon>FrmEditOrdenTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditPlanifiacion.resx">
+      <DependentUpon>FrmEditPlanifiacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditRealDropped.resx">
+      <DependentUpon>FrmEditRealDropped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEditRealOrdenTrabajo.resx">
+      <DependentUpon>FrmEditRealOrdenTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEquipo.resx">
+      <DependentUpon>FrmEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmEstructura.resx">
+      <DependentUpon>FrmEstructura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmOrdenTrabajo.resx">
+      <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmPlanificar.resx">
+      <DependentUpon>FrmPlanificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tareas\FrmPlanificarRange.resx">
+      <DependentUpon>FrmPlanificarRange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport2.resx">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DSDatos.xsc">
+      <DependentUpon>DSDatos.xsd</DependentUpon>
+    </None>
+    <None Include="DSDatos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSDatos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSDatos.xss">
+      <DependentUpon>DSDatos.xsd</DependentUpon>
+    </None>
+    <None Include="Graficos\DSGraficos.xsc">
+      <DependentUpon>DSGraficos.xsd</DependentUpon>
+    </None>
+    <None Include="Graficos\DSGraficos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSGraficos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Graficos\DSGraficos.xss">
+      <DependentUpon>DSGraficos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DSReporte.xsc">
+      <DependentUpon>DSReporte.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DSReporte.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSReporte.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DSReporte.xss">
+      <DependentUpon>DSReporte.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ACINOX Components\ACINOX Components\ACINOX.csproj">
+      <Project>{b50dae58-f5b9-48fd-91ca-d7bc07e40d67}</Project>
+      <Name>ACINOX</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ERROR.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projectdirectory_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icono blanco.ico" />
+    <None Include="Resources\customer_32x32.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,229 @@
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCaptionWindow.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCodificadorForm.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.USaveableForm.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmMain.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Properties.Resources.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEstructura.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEstructura.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.exe.licenses
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\GTrans.exe.config
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\GTrans.exe
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\GTrans.pdb
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\ACINOX.dll
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\Infralution.Licensing.dll
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\ACINOX.pdb
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.exe
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.pdb
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificar.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEquipo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEquipo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmBajaEquipo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmConsumo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditConsumo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmCancelarConsumo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoMantenimiento.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditPlanifiacion.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmOrdenTrabajo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmAlmacen.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductos.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditProductos.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductoCodif.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditAlmacen.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEmpleado.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealDropped.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealOrdenTrabajo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditOrdenTrabajo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificarRange.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmUser.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoTrabajo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.FrmDateRangeForm.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Graficos.FrmGraficos.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquiposReport.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquipoConsumo.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmPlantillaReport.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmAlmacenReport.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport1.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmMarca.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmPais.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoCombustible.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmParalizado.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmGrupoAcciones.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmNewAccion.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmAbout.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmDashBoard.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditPlanitlla.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoEquipo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\GTrans.exe.config
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\GTrans.exe
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\GTrans.pdb
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\ACINOX.dll
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\Infralution.Licensing.dll
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\bin\Debug\ACINOX.pdb
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.csprojResolveAssemblyReference.cache
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Abstract.FrmDateRangeForm.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCaptionWindow.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCodificadorForm.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Abstract.USaveableForm.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmOrdenReport.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditPlanitlla.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditProductos.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEmpleado.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmGrupoAcciones.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmMarca.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmNewAccion.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmPais.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductoCodif.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductos.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoEquipo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoMantenimiento.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoCombustible.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmParalizado.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoTrabajo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.FrmAbout.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.FrmDashBoard.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.FrmMain.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.FrmUser.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Graficos.FrmGraficos.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Properties.Resources.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmAlmacenReport.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquipoConsumo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquiposReport.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmPlantillaReport.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport1.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmAlmacen.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmBajaEquipo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmCancelarConsumo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmConsumo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditAlmacen.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditConsumo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEquipo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEstructura.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditOrdenTrabajo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditPlanifiacion.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealDropped.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealOrdenTrabajo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEquipo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEstructura.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmOrdenTrabajo.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificar.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificarRange.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.XtraReport2.resources
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.csproj.GenerateResource.Cache
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.exe.licenses
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.exe
+C:\Users\Harry\documents\visual studio 2013\Projects\GTrans\GTrans\obj\Debug\GTrans.pdb
+\\172.16.2.245\g\Rosita\GTrans\GTrans\GTrans\bin\Debug\GTrans.exe.config
+\\172.16.2.245\g\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.exe
+\\172.16.2.245\g\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.pdb
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Opciones.FrmTrazas.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmOrdenReport.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSalario.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSurtido.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport3.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.XtraReport2.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmDeletedWorker.resources
+D:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmNeed.resources
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\NCalc.dll
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\GTrans.exe.config
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\GTrans.exe
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\GTrans.pdb
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\ACINOX.dll
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\Infralution.Licensing.dll
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\NCalc.dll
+G:\Rosita\GTrans\GTrans\GTrans\bin\Debug\ACINOX.pdb
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.csprojResolveAssemblyReference.cache
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Abstract.FrmDateRangeForm.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCaptionWindow.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCodificadorForm.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Abstract.USaveableForm.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.FrmNeed.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Opciones.FrmTrazas.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmOrdenReport.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSalario.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSurtido.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport1.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport3.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmDeletedWorker.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditPlanitlla.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditProductos.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEmpleado.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmGrupoAcciones.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmMarca.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmNewAccion.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmPais.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductoCodif.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmProductos.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoEquipo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoMantenimiento.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoCombustible.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmParalizado.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmTipoTrabajo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.FrmAbout.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.FrmDashBoard.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.FrmMain.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.FrmUser.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Graficos.FrmGraficos.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Properties.Resources.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmAlmacenReport.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquipoConsumo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquiposReport.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmPlantillaReport.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmAlmacen.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmBajaEquipo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmCancelarConsumo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmConsumo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditAlmacen.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditConsumo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEquipo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEstructura.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditOrdenTrabajo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditPlanifiacion.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealDropped.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditRealOrdenTrabajo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEquipo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEstructura.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmOrdenTrabajo.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificar.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificarRange.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.XtraReport2.resources
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.csproj.GenerateResource.Cache
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.exe.licenses
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.exe
+G:\Rosita\GTrans\GTrans\GTrans\obj\Debug\GTrans.pdb
+D:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\VisualStudio\GTrans\GTrans\bin\Debug\GTrans.exe.config
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.exe
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.pdb
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.FrmDateRangeForm.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCaptionWindow.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.UCodificadorForm.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Abstract.USaveableForm.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Opciones.FrmTrazas.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmOrdenReport.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSalario.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.RepOrdenSurtido.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport1.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.XtraReport3.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditPlanitlla.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Codificadores.FrmEditProductos.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmAbout.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmDashBoard.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.FrmUser.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Graficos.FrmGraficos.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Properties.Resources.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmAlmacenReport.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquipoConsumo.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmEquiposReport.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Reportes.FrmPlantillaReport.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmBajaEquipo.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmCancelarConsumo.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditAlmacen.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditConsumo.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEquipo.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmEditEstructura.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.Tareas.FrmPlanificar.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.XtraReport2.resources
+E:\Projects\VisualStudio\GTrans\GTrans\obj\Debug\GTrans.csproj.GenerateResource.Cache
